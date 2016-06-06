@@ -1,7 +1,7 @@
 # hello-world
 My first coding project!
 <head>
-<title> A little about me </title>	
+<title> A little about me! </title>	
 </head>	
 <body> 
 <h1>Surviving 1st year of Medical School as an Asthmatic</h1>
