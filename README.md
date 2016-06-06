@@ -1,4 +1,3 @@
-# hello-world
 My first coding project!
 <head>
 <title> A little about me! </title>	
