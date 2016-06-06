@@ -1,7 +1,5 @@
 # hello-world
 My first coding project!
-<!DOCTYPE html>
-<html>
 <head>
 <title> A little about me </title>	
 </head>	
